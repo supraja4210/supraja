@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-hii
+hii..
 welcome to devops lab
 </head>
 </html>
